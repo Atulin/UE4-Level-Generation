@@ -1,0 +1,6 @@
+Healthpack:
+	Pengo_au https://www.freesound.org/people/pengo_au/sounds/90143/ based on
+	Reinsamba https://www.freesound.org/people/reinsamba/sounds/66364/
+
+Shooting
+	alien_s https://freesound.org/people/alien_s/sounds/170888/
