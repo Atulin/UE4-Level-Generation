@@ -1,6 +1,6 @@
 # Level generation demo
 
-This level generation is based on **level instances** instead of actors as the main level rooms. This allows the user to use the level editor to edit rooms, instead of having to put up with the Actor editor.
+This level generation is based on **level instances** instead of actors as the main level rooms. This allows the user to use the level editor to edit rooms, instead of having to put up with the Actor editor. It's made entirely in **Blueprint**.
 
 I have decided to release it in its sorry state as my open-source contribution to the Unreal Engine 4 community, maybe together we can make it fully work. It's one of my oldest projects, if not the oldest, so there is some issues with it:
 
