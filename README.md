@@ -1,3 +1,6 @@
+![](https://thumbs.gfycat.com/TheseNegligibleKodiakbear-size_restricted.gif)
+*Each of the rooms you see is a level instance*
+
 # Level generation demo
 
 This level generation is based on **level instances** instead of actors as the main level rooms. This allows the user to use the level editor to edit rooms, instead of having to put up with the Actor editor. It's made entirely in **Blueprint**.
