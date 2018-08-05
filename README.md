@@ -1,5 +1,5 @@
 ![](https://thumbs.gfycat.com/TheseNegligibleKodiakbear-size_restricted.gif)
-*Each of the rooms you see is a level instance*
+*Each of the rooms you see is a level instance. Spawning speed - real time.*
 
 # Level generation demo
 
@@ -33,4 +33,15 @@ ____
 
 ## Documentation
 
-None yet. Will probably be created. Some day. In the meantime, feel free to open issues to ask for stuff.
+* Start from the ``Room1`` level. Teleporting there from ``PersistentLevel`` fails ¯\\\_(ツ)_/¯
+* All the relevant actors sit in ``Utilities`` folder
+  * Room Spawner Probe – calculates which room to spawn and spawns it
+  * Floor Master – manages the probes
+
+____
+
+## Changelog
+
+* 05.08.2018
+  * added some comments to the graphs
+  * Replaced a sequence with custom events
