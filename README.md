@@ -21,14 +21,7 @@ ____
 
 ## License
 
-I haven't picked one that's fully suitable for the project **yet**. But here are some basic guidelines:
-
-1. If you make some improvement to this system, please, share. Don't keep it to yourself only.
-2. You can use it for commercial or non-commercial games, as you wish.
-3. Your end product can have whatever license you wish it to have. The level generation system, however, should have at least an open source. Or, preferably, it should make it as a pull request to this repo here.
-4. Credit is not necessary, although appreciated.
-
-In the end, the license will probably be ``Mozilla Public License 2.0``, but it's not guaranteed quite yet.
+``Mozilla Public License 2.0``
 ____
 
 ## Documentation
